@@ -1,5 +1,4 @@
 # learning-git
-<div>
-new Line for a thin
-</div>
-forgive me my lord
+so here i will try to make a htmal web page
+<d>
+soo  yaaah!
